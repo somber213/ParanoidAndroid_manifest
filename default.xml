@@ -37,6 +37,10 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/sample" name="device/sample" />
+  <project path="device/motorola/mb886" name="android_device_motorola_mb886" remote="th" revision="jb-mr1" />
+  <project path="device/motorola/msm8960-common" name="android_device_motorola_msm8960-common" remote="th" revision="jb-mr1" />
+  <project path="device/motorola/xt925" name="android_device_motorola_xt925" remote="th" revision="jb-mr1" />
+  <project path="device/motorola/xt926" name="android_device_motorola_xt926" remote="th" revision="jb-mr1" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-clat" name="platform/external/android-clat" />
@@ -330,7 +334,11 @@
   <project path="system/vold" name="platform/system/vold" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
-  <project path="vendor/pa" name="ParanoidAndroid/android_vendor_pa" remote="github" revision="jellybean" />
+  <project path="vendor/motorola/msm8960-common" name="android_vendor_motorola_msm8960-common" remote="th" revision="jb-mr1" />
+  <project path="vendor/motorola/mb886" name="android_vendor_motorola_mb886" remote="th" revision="jb-mr1" />
+  <project path="vendor/motorola/xt925" name="android_vendor_motorola_xt925" remote="th" revision="jb-mr1" />
+  <project path="vendor/motorola/xt926" name="android_vendor_motorola_xt926" remote="th" revision="jb-mr1" />
+  <project path="vendor/pa" name="cj360/android_vendor_pa" remote="github" revision="jellybean" />
 
   <project path="paranoid" name="ParanoidAndroid/paranoid" remote="github" revision="jellybean" >
     <copyfile src="build.sh" dest="rom-build.sh" />
