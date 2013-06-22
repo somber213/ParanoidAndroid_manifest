@@ -10,6 +10,9 @@
            review="gerrit.androidninjas.com:8181"
            revision="jellybean" />
 
+  <remote name="th"
+           fetch="https://github.com/TeamHorizon/" />
+
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
