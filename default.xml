@@ -49,7 +49,7 @@
   <project path="device/sample" name="device/sample" />
   <project path="kernel/motorola/msm8960-common" name="razrqcom-dev-team/android_kernel_motorola_msm8960-common" remote="github" revision="cm-10.1" />
   <project path="device/motorola/msm8960-common" name="razrqcom-dev-team/android_device_motorola_msm8960-common" remote="github" revision="cm-10.1" />
-  <project path="device/motorola/xt925" name="razrqcom-dev-team/android_device_motorola_xt926" remote="github" revision="cm-10.1" />
+  <project path="device/motorola/xt925" name="razrqcom-dev-team/android_device_motorola_xt925" remote="github" revision="cm-10.1" />
   <project path="device/motorola/xt926" name="razrqcom-dev-team/android_device_motorola_xt926" remote="github" revision="cm-10.1" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
