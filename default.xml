@@ -32,8 +32,8 @@
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bionic" name="ParanoidAndroid/android_bionic" remote="github" revision="jellybean" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
-  <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="platform/bootable/recovery" />
+  <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" remote="github" revision="cm-10.1" />
+  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="github" revision="cm-10.1" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="ParanoidAndroid/android_dalvik" remote="github" revision="jellybean" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="github" revision="cm-10.1" />
