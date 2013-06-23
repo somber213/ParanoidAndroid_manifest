@@ -233,7 +233,7 @@
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
   <project path="frameworks/opt/telephony" name="CyanogenMod/android_frameworks_opt_telephony" remote="github" revision="cm-10.1"  />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
-  <project path="frameworks/rs" name="ParanoidAndroid/android_frameworks_rs" remote="github" revision="jellybean" />
+  <project path="frameworks/rs" name="CyanogenMod/android_frameworks_rs" remote="github" revision="cm-10.1" />
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
@@ -352,7 +352,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
-  <project path="system/core" name="ParanoidAndroid/android_system_core" remote="github" revision="jellybean"  />
+  <project path="system/core" name="CyanogenMod/android_system_core" remote="github" revision="cm-10.1"  />
   <project path="system/extras" name="ParanoidAndroid/android_system_extras" remote="github" revision="jellybean" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
