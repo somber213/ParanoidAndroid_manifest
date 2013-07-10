@@ -213,7 +213,7 @@
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="github" revision="cm-10.1" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="github" revision="cm-10.1"/>
-  <project path="frameworks/base" name="ParanoidAndroid/android_frameworks_base" remote="github" revision="jellybean-legacy"  />
+  <project path="frameworks/base" name="cj360/android_frameworks_base" remote="github" revision="jellybean-legacy"  />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" />
@@ -314,7 +314,7 @@
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" />
   <project path="packages/providers/MediaProvider" name="platform/packages/providers/MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
-  <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" remote="github" revision="cm-10.1" />
+  <project path="packages/providers/TelephonyProvider" name="ParanoidAndroid/android_packages_providers_TelephonyProvider" remote="github" revision="cm-10.1" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" />
   <project path="packages/screensavers/Basic" name="platform/packages/screensavers/Basic" />
   <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" />
