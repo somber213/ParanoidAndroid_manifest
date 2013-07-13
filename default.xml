@@ -25,7 +25,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="cj360/pa-android_build" remote="github" revision="jellybean-legacy" >
+  <project path="build" name="cj360/pa-android_build" remote="github" revision="testing" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="android" name="cj360/ParanoidAndroid_manifest" remote="github" revision="jellybean-legacy" />
@@ -293,7 +293,7 @@
   <project path="packages/apps/Phone" name="ParanoidAndroid/android_packages_apps_Phone" remote="github" revision="jellybean-legacy" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
-  <project path="packages/apps/PermissionsManager" name="AOKP/packages_apps_PermissionsManager" remote="github" revision="jb-mr1" />
+  <project path="packages/apps/PermissionsManager" name="AOKP/packages_apps_PermissionsManager" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
   <project path="packages/apps/Settings" name="cj360/android_packages_apps_Settings" remote="github" revision="testing"  />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
@@ -366,7 +366,7 @@
   <project path="vendor/motorola/msm8960-common" name="razrqcom-dev-team/android_vendor_motorola_msm8960-common" remote="github" revision="cm-10.1" />
   <project path="vendor/motorola/xt925" name="razrqcom-dev-team/android_vendor_motorola_xt925" remote="github" revision="cm-10.1" />
   <project path="vendor/motorola/xt926" name="razrqcom-dev-team/android_vendor_motorola_xt926" remote="github" revision="cm-10.1" />
-  <project path="vendor/pa" name="cj360/android_vendor_pa" remote="github" revision="testing" />
+  <project path="vendor/pa" name="cj360/android_vendor_pa" remote="github" revision="jellybean" />
 
   <project path="paranoid" name="ParanoidAndroid/paranoid" remote="github" revision="jellybean" >
     <copyfile src="build.sh" dest="rom-build.sh" />
