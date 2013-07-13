@@ -366,7 +366,7 @@
   <project path="vendor/motorola/msm8960-common" name="razrqcom-dev-team/android_vendor_motorola_msm8960-common" remote="github" revision="cm-10.1" />
   <project path="vendor/motorola/xt925" name="razrqcom-dev-team/android_vendor_motorola_xt925" remote="github" revision="cm-10.1" />
   <project path="vendor/motorola/xt926" name="razrqcom-dev-team/android_vendor_motorola_xt926" remote="github" revision="cm-10.1" />
-  <project path="vendor/pa" name="cj360/android_vendor_pa" remote="github" revision="jellybean" />
+  <project path="vendor/pa" name="cj360/android_vendor_pa" remote="github" revision="testing" />
 
   <project path="paranoid" name="ParanoidAndroid/paranoid" remote="github" revision="jellybean" >
     <copyfile src="build.sh" dest="rom-build.sh" />
