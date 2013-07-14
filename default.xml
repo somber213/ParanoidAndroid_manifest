@@ -25,10 +25,10 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="cj360/pa-android_build" remote="github" revision="testing" >
+  <project path="build" name="cj360/pa-android_build" remote="github" revision="jellybean-legacy" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="android" name="cj360/ParanoidAndroid_manifest" remote="github" revision="jellybean-legacy" />
+  <project path="android" name="cj360/ParanoidAndroid_manifest" remote="github" revision="testing" />
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bionic" name="ParanoidAndroid/android_bionic" remote="github" revision="jellybean" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" remote="github" revision="cm-10.1" />
