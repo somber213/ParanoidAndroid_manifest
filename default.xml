@@ -22,7 +22,7 @@
   <project path="build" name="cj360/pa-android_build" remote="github" revision="jellybean-legacy" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="android" name="cj360/ParanoidAndroid_manifest" remote="github" revision="testing" />
+  <project path="android" name="cj360/ParanoidAndroid_manifest" remote="github" revision="jellybean-legacy" />
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bionic" name="ParanoidAndroid/android_bionic" remote="github" revision="jellybean" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" remote="github" revision="cm-10.1" />
@@ -207,7 +207,7 @@
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="github" revision="cm-10.1" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="github" revision="cm-10.1"/>
-  <project path="frameworks/base" name="cj360/android_frameworks_base" remote="github" revision="testing"  />
+  <project path="frameworks/base" name="cj360/android_frameworks_base" remote="github" revision="jellybean-legacy"  />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" />
@@ -289,7 +289,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/PermissionsManager" name="AOKP/packages_apps_PermissionsManager" remote="github" revision="jb-mr1" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="cj360/android_packages_apps_Settings" remote="github" revision="testing"  />
+  <project path="packages/apps/Settings" name="cj360/android_packages_apps_Settings" remote="github" revision="jellybean-legacy"  />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
@@ -309,7 +309,7 @@
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" />
   <project path="packages/providers/MediaProvider" name="platform/packages/providers/MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
-  <project path="packages/providers/TelephonyProvider" name="cj360/android_packages_providers_TelephonyProvider" remote="github" revision="testing" />
+  <project path="packages/providers/TelephonyProvider" name="cj360/android_packages_providers_TelephonyProvider" remote="github" revision="cm-10.1" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" />
   <project path="packages/screensavers/Basic" name="platform/packages/screensavers/Basic" />
   <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" />
@@ -360,7 +360,7 @@
   <project path="vendor/motorola/msm8960-common" name="razrqcom-dev-team/android_vendor_motorola_msm8960-common" remote="github" revision="cm-10.1" />
   <project path="vendor/motorola/xt925" name="razrqcom-dev-team/android_vendor_motorola_xt925" remote="github" revision="cm-10.1" />
   <project path="vendor/motorola/xt926" name="razrqcom-dev-team/android_vendor_motorola_xt926" remote="github" revision="cm-10.1" />
-  <project path="vendor/pa" name="cj360/android_vendor_pa" remote="github" revision="testing" />
+  <project path="vendor/pa" name="cj360/android_vendor_pa" remote="github" revision="jellybean" />
 
   <project path="paranoid" name="ParanoidAndroid/paranoid" remote="github" revision="jellybean" >
     <copyfile src="build.sh" dest="rom-build.sh" />
