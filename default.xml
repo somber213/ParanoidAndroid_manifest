@@ -40,7 +40,7 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/sample" name="device/sample" />
-  <project path="kernel/motorola/msm8960-common" name="razrqcom-dev-team/android_kernel_motorola_msm8960-common" remote="github" revision="cm-10.1" />
+  <project path="kernel/motorola/msm8960-common" name="BytecodeMe/vanquish" remote="github" revision="cm-10.1" />
   <project path="device/motorola/msm8960-common" name="cj360/android_device_motorola_msm8960-common" remote="github" revision="pa-cm-10.1" />
   <project path="device/motorola/xt925" name="razrqcom-dev-team/android_device_motorola_xt925" remote="github" revision="cm-10.1" />
   <project path="device/motorola/xt926" name="cj360/android_device_motorola_xt926" remote="github" revision="cm-10.1" />
