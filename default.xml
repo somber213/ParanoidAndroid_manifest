@@ -38,7 +38,7 @@
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
   <project path="device/generic/mips" name="device/generic/mips" />
   <project path="device/generic/x86" name="device/generic/x86" />
-  <project path="kernel/motorola/msm8960-common" name="razrqcom-dev-team/android_kernel_motorola_msm8960-common" remote="github" revision="cm-10.1" />
+  <project path="kernel/motorola/msm8960-common" name="android_kernel_motorola_msm8960-common" remote="cm" revision="cm-10.1" />
   <project path="device/motorola/msm8960-common" name="cj360/android_device_motorola_msm8960-common" remote="github" revision="pa-cm-10.1" />
   <project path="device/motorola/xt925" name="razrqcom-dev-team/android_device_motorola_xt925" remote="github" revision="cm-10.1" />
   <project path="device/motorola/xt926" name="cj360/android_device_motorola_xt926" remote="github" revision="pa-cm-10.1" />
