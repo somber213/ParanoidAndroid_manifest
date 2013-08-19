@@ -140,8 +140,8 @@
   <project path="external/libogg" name="platform/external/libogg" />
   <project path="external/libpcap" name="platform/external/libpcap" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" />
-  <project path="external/libphonenumbergoogle" name="CyanogenMod/android_external_libphonenumbergoogle" remote="cm" revision="cm-10.2" />
-  <project path="external/libpng" name="CyanogenMod/android_external_libpng" remote="cm" revision="cm-10.2" groups="pdk" />
+  <project path="external/libphonenumbergoogle" name="android_external_libphonenumbergoogle" remote="cm" revision="cm-10.2" />
+  <project path="external/libpng" name="android_external_libpng" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/libppp" name="platform/external/libppp" />
   <project path="external/libselinux" name="android_external_libselinux" remote="cm" groups="pdk" />
   <project path="external/libsepol" name="platform/external/libsepol" groups="pdk" />
