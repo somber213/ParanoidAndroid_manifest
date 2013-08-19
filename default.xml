@@ -42,6 +42,7 @@
   <project path="device/motorola/msm8960-common" name="cj360/android_device_motorola_msm8960-common" remote="github" revision="pa-cm-10.2" />
   <project path="device/motorola/xt925" name="razrqcom-dev-team/android_device_motorola_xt925" remote="github" revision="cm-10.2" />
   <project path="device/motorola/xt926" name="cj360/android_device_motorola_xt926" remote="github" revision="pa-cm-10.2" />
+  <project path="device/motorola/xt907" name="CarbonDev/android_device_motorola_xt907" remote="github" revision="jb3" />
   <project path="device/common" name="android_device_common" remote="cm" revision="cm-10.2" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
@@ -398,9 +399,7 @@
   <project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" />
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
-  <project path="vendor/motorola/msm8960-common" name="razrqcom-dev-team/android_vendor_motorola_msm8960-common" remote="github" revision="cm-10.2" />
-  <project path="vendor/motorola/xt925" name="razrqcom-dev-team/android_vendor_motorola_xt925" remote="github" revision="cm-10.2" />
-  <project path="vendor/motorola/xt926" name="razrqcom-dev-team/android_vendor_motorola_xt926" remote="github" revision="cm-10.2" />
+  <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="cm-10.2" />
   <project path="vendor/pa" name="cj360/android_vendor_pa" remote="github" revision="jb43" />
   <project path="platform_manifest" name="cj360/ParanoidAndroid_manifest" remote="github" revision="jb43-legacy" />
   <project path="paranoid" name="ParanoidAndroid/paranoid" remote="github" revision="jb43" >
