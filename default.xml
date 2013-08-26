@@ -31,8 +31,8 @@
   <project name="android_device_motorola_mb886" path="device/motorola/mb886" remote="cm" revision="cm-10.2" />
   <project name="android_device_motorola_xt897" path="device/motorola/xt897" remote="cm" revision="cm-10.2" />
   <project name="android_device_motorola_xt897c" path="device/motorola/xt897c" remote="cm" revision="cm-10.2" />
-  <project name="android_device_motorola_xt907" path="device/motorola/xt907" remote="cm" revision="jb43" />
-  <project name="android_device_motorola_xt925" path="device/motorola/xt925" remote="cm" revision="jb43" />
+  <project name="cj360/android_device_motorola_xt907" path="device/motorola/xt907" remote="cm" revision="jb43" />
+  <project name="cj360/android_device_motorola_xt925" path="device/motorola/xt925" remote="cm" revision="jb43" />
   <project name="cj360/android_device_motorola_xt926" path="device/motorola/xt926" remote="github" revision="jb43" />
   <project name="cj360/android_device_motorola_msm8960-common" path="device/motorola/msm8960-common" remote="github" revision="jb43" />
   <project name="android_kernel_motorola_msm8960-common" path="kernel/motorola/msm8960-common" remote="cm" revision="cm-10.2" />
