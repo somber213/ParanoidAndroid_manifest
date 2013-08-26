@@ -36,6 +36,7 @@
   <project name="cj360/android_device_motorola_xt926" path="device/motorola/xt926" remote="github" revision="pa-cm-10.2" />
   <project name="cj360/android_device_motorola_msm8960-common" path="device/motorola/msm8960-common" remote="github" revision="pa-cm-10.2" />
   <project name="android_kernel_motorola_msm8960-common" path="kernel/motorola/msm8960-common" remote="cm" revision="cm-10.2" />
+  <project path="platform_manifest" name="cj360/ParanoidAndroid_manifest" remote="github" revision="jb43-legacy" />
   <!--end-->
   
   <!--Extras-->
