@@ -31,10 +31,10 @@
   <project name="android_device_motorola_mb886" path="device/motorola/mb886" remote="cm" revision="cm-10.2" />
   <project name="android_device_motorola_xt897" path="device/motorola/xt897" remote="cm" revision="cm-10.2" />
   <project name="android_device_motorola_xt897c" path="device/motorola/xt897c" remote="cm" revision="cm-10.2" />
-  <project name="android_device_motorola_xt907" path="device/motorola/xt907" remote="cm" revision="cm-10.2" />
-  <project name="android_device_motorola_xt925" path="device/motorola/xt925" remote="cm" revision="cm-10.2" />
-  <project name="cj360/android_device_motorola_xt926" path="device/motorola/xt926" remote="github" revision="pa-cm-10.2" />
-  <project name="cj360/android_device_motorola_msm8960-common" path="device/motorola/msm8960-common" remote="github" revision="pa-cm-10.2" />
+  <project name="android_device_motorola_xt907" path="device/motorola/xt907" remote="cm" revision="jb43" />
+  <project name="android_device_motorola_xt925" path="device/motorola/xt925" remote="cm" revision="jb43" />
+  <project name="cj360/android_device_motorola_xt926" path="device/motorola/xt926" remote="github" revision="jb43" />
+  <project name="cj360/android_device_motorola_msm8960-common" path="device/motorola/msm8960-common" remote="github" revision="jb43" />
   <project name="android_kernel_motorola_msm8960-common" path="kernel/motorola/msm8960-common" remote="cm" revision="cm-10.2" />
   <project path="platform_manifest" name="cj360/ParanoidAndroid_manifest" remote="github" revision="jb43-legacy" />
   <!--end-->
@@ -386,6 +386,8 @@
   <project path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7" name="platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7" groups="pdk,darwin,x86" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" groups="pdk,linux,arm" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" groups="pdk,linux,arm" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="android_prebuilts_gcc_linux-x86_arm_sabermod-arm-eabi-4.8" remote="sm" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/custom-4.8" name="android_prebuilts_gcc_linux-x86_arm_custom-4.8" remote="uk" revision="jb4.2" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" groups="pdk,linux,arm" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" groups="pdk,linux,arm" />
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" groups="pdk,linux" />
