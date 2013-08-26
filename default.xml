@@ -34,6 +34,7 @@
   <project name="android_device_motorola_xt907" path="device/motorola/xt907" remote="cm" revision="cm-10.1" />
   <project name="android_device_motorola_xt925" path="device/motorola/xt925" remote="cm" revision="cm-10.1" />
   <project name="cj360/android_device_motorola_xt926" path="device/motorola/xt926" remote="github" revision="pa-cm-10.2" />
+  <project path="kernel/motorola/msm8960-common" name="/android_kernel_motorola_msm8960-common" remote="cm" revision="cm-10.2" />
   <!--end-->
   
   <!--Extras-->
