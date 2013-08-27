@@ -30,7 +30,7 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the ParanoidAndroid trees, use a command like this:
 
-    repo init -u https://github.com/cj360/ParanoidAndroid_manifest.git -b jb43-legacy
+    repo init -u https://github.com/somber213/ParanoidAndroid_manifest.git -b jb43-legacy
 
 Then to sync up:
 
